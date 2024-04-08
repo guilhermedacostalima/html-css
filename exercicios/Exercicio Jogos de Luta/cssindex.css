@@ -1,0 +1,30 @@
+body {
+
+    background-color:rgb(0, 0, 0)
+}
+h1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    left: 450px;
+}
+#streetfightertrailer,#tekkentrailer,#mortalkombattrailer,#koftrailer
+{
+    position: absolute;
+    bottom: 150px;
+    left: 330px;
+}
+#paginainicial {
+    position: absolute;
+    top: 500px;
+    left: 450px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+#vermaisbotao{
+    position: absolute;
+    top: 500px;
+    left: 600px;
+    padding: 10px;
+    border-radius: 30px;}
